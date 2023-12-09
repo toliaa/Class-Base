@@ -7,7 +7,7 @@ This C++ program demonstrates a class hierarchy with polymorphism. It includes a
 
 - **MyForm.h**: Header file for the program.
 
-- **main.cpp**: The main source file containing the `main` function.
+- **MyForm.cpp**: The main source file containing the `main` function.
 
 ## Classes
 
